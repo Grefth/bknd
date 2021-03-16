@@ -1,11 +1,9 @@
 <?php
 include "config.php";
 include "utils.php";
-#include "prueba.php";
 
 
 $dbConn =  connect($db);
-#$dbConn =  conectar();
 
 /*
   listar todos los posts o solo uno
